@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "SmartHomeCloudService", "SmartHomeCloudService\SmartHomeCloudService.ccproj", "{CD2067AE-8329-4B30-8EF8-E2D850731542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHService", "SHService\SHService.csproj", "{3C1A126D-29B4-4ECC-8CB4-AF370E347AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SH.Common", "SH.Common\SH.Common.csproj", "{36E7E74C-3A4D-401E-A7D2-535859E0B989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2067AE-8329-4B30-8EF8-E2D850731542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2067AE-8329-4B30-8EF8-E2D850731542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2067AE-8329-4B30-8EF8-E2D850731542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2067AE-8329-4B30-8EF8-E2D850731542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1A126D-29B4-4ECC-8CB4-AF370E347AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1A126D-29B4-4ECC-8CB4-AF370E347AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1A126D-29B4-4ECC-8CB4-AF370E347AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1A126D-29B4-4ECC-8CB4-AF370E347AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E7E74C-3A4D-401E-A7D2-535859E0B989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E7E74C-3A4D-401E-A7D2-535859E0B989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E7E74C-3A4D-401E-A7D2-535859E0B989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E7E74C-3A4D-401E-A7D2-535859E0B989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
